@@ -1,2 +1,2 @@
 # Muesli
-Exploratory Data Analysis on a Muesli Company with focus on the delivery time
+Exploratory Data Analysis on a Muesli Company dataset with focus on the processing the order and the whole delivery time
